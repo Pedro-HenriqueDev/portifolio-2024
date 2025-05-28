@@ -28,6 +28,7 @@
                 <div class="container-image-profile d-flex justify-center items-center w-100">
                     <div class="d-flex justify-center items-center w-100 mt-5 md:mt-0">
                         <v-img
+                            class="rounded-full"
                             :max-width="500"
                             :width="300"
                             aspect-ratio="16/9"
