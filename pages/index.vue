@@ -6,7 +6,7 @@
                     <div class="title">PORTFÓLIO</div>
                     <div class="subtitle">Pedro Henrique</div>
                 </div>
-                <div class="year">2024</div>
+                <div class="year">2025</div>
             </div>
         </div>
         <div id="sobremim" class="ancora"></div>
@@ -20,8 +20,7 @@
 
                         <div class="md:w-[700px] w-auto mt-10">
                             Tenho 3 anos de experiência com Vue e Node.js. Estou cursando Análise e Desenvolvimento de
-                            Sistemas. Tenho paixão por programação e pela aplicação da tecnologia para resolver desafios
-                            complexos de maneira eficiente. Meu objetivo é desenvolver programas rápidos, eficazes e de
+                            Sistemas. Gosto muito de desenvolver soluções eficientes e práticas para problemas complexos. Meu principal objetivo é desenvolver programas rápidos, eficazes e de
                             relevância impactante.
                         </div>
                     </div>
@@ -102,7 +101,7 @@
                             <div class="text-3xl font-bold mt-5">2022-2023</div>
                             <div class="text-3xl font-bold mt-2">Udemy - Formação Node.js</div>
                             <div class="mt-5">
-                                Curso completo que vai do básico do Node.js, se aprofundado bastante no desenvolvimento
+                                Curso completo que vai do básico do Node.js, se aprofundando bastante no desenvolvimento
                                 web com Javascript para o back-end, com bibliotecas como Express.js, e bancos de dados
                                 como MongoDB e MySQL.
                             </div>
@@ -141,16 +140,14 @@
                             </div>
                         </div>
                         <div class="md:w-[500px] w-auto mt-10">
-                            <div class="text-3xl font-bold mt-5">Arqtetando Brasil</div>
+                            <div class="text-3xl font-bold mt-5">Angular Tecnologia em Educação</div>
                             <div class="text-xl italic">Desenvolvedor Web</div>
-                            <div>(2024- atualmente)</div>
+                            <div>(10/2024- atualmente)</div>
                             <div class="mt-5">
-                                Atualmente dando suporte ao site da empresa
-                                <a class="text-[#F7E7DC] underline" href="https://arqtetando.com.br/" target="_blank"
-                                    >Arqtetando Brasil</a
-                                >. O sistema utiliza também de Node.js e Vue.js. O site tem o objetivo de relacionar
-                                clientes e suas demandas a profissionais interessados, relacionados à construção civil e
-                                engenharia.
+                                Atualmente estou desenvolvendo websites na empresa
+                                <a class="text-[#F7E7DC] underline" href="https://www.angulare.app/" target="_blank"
+                                    >Angular Tecnologia em Educação</a
+                                >. Participo no desenvolvimento de sites para estúdios e academias em todo o Brasil! E integramos nosso sistema de compra de planos e agendamento de aulas. Além de ter o controle de alunos e professores.
                             </div>
                         </div>
                     </div>
@@ -305,7 +302,7 @@
                     <div class="flex flex-col gap-1 mt-4">
                         <p class="text-[#bebebe] underline">Contato</p>
                         <a href="mailto:contatopedrohrq@gmail.com" class="hover:underline">contatopedrohrq@gmail.com</a>
-                        <div class="hover:underline">(71) 99952-2030</div>
+                        <a target="_blank" href="https://wa.me/+5571999522030"><div class="hover:underline">(71) 99952-2030</div></a>
                     </div>
                 </div>
             </div>
@@ -331,7 +328,7 @@
         <div class="flex justify-center">
             <v-divider class="max-w-[1280px] mt-10"></v-divider>
         </div>
-        <div class="flex justify-center mt-8">&#169; 2024. Desenvolvido por Pedro Henrique</div>
+        <div class="flex justify-center mt-8">&#169; 2025. Desenvolvido por Pedro Henrique</div>
     </div>
 </template>
 
